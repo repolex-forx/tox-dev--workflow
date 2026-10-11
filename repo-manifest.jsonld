@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/workflow/commit/1bb961580e20073f66ccb9024f248357f8c8fecb",
       "git:hexsha": "1bb961580e20073f66ccb9024f248357f8c8fecb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
